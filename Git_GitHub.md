@@ -40,7 +40,7 @@ Git se compone por tres bloques o estados *working directory, staging area y rep
 
 Para empezar a trabajar con Git es necesario instalar los componentes Git https://git-scm.com , así como crear una cuenta en GitHub https://github.com , una vez realizados estos pasos es necesario crear el repositorio deseado para empezar a subir el codigo del proyecto seleccionado. 
 
-[![Git/GitHub, Curso Páctico](http://img.youtube.com/vi/HiXLkL42tMU/0.jpg)](https://www.youtube.com/watch?v=HiXLkL42tMU "Tutorial Markdown")
+[![Git/GitHub, Curso Páctico](http://img.youtube.com/vi/HiXLkL42tMU/0.jpg)](https://www.youtube.com/watch?v=HiXLkL42tMU "Tutorial Git/Github")
 
 
 
