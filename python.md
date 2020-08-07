@@ -6,9 +6,9 @@ Primero necesitamos crear un entorno virtual, esto es porque algunos sistemas op
 
 Instalamos la herramienta que nos permite crear entornos virtuales, desde consola utilizamos el comando:
 ```console
-root@Usuario:~# pip3 instal pipenv
+root@Usuario:~# pip3 install pipenv
 ```
-El siguiente paso será crear nuestro entorno virtual, en *pythonversionX* sustituimos la *X* por la versión deseada y, en lugar de *nombredelentorno* el nombre que le queremos dar a nuestro entorno.
+El siguiente paso será crear nuestro entorno virtual, en *pythonversionX* sustituimos *versionX* por la versión deseada y, en lugar de *nombredelentorno* el nombre que le queremos dar a nuestro entorno.
 
 ```console
 root@Usuario:~# pythonversionX -m venv nombredelentorno
