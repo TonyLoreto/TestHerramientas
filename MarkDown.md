@@ -93,6 +93,9 @@ Inserción de Video
 
 [![Markdown, Curso Páctico](http://img.youtube.com/vi/oxaH9CFpeEE/0.jpg)](http://www.youtube.com/watch?v=oxaH9CFpeEE "Tutorial Markdown")
 
+Más info
+https://joedicastro.com/pages/markdown.html#mark13
+
 <!-- GitHub Markdown -->
 Check list
 
